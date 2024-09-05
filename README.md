@@ -55,3 +55,9 @@ The system will also calculate royalty points that can later be redeemed for rew
 * Offer a rewards program that allows users to redeem points for fitness gear, crypto, or other perks.
 
 * Introduce a leaderboard to promote competition and encourage regular use.
+
+# Work Mode:
+
+* Manual data
+
+* Live data.
