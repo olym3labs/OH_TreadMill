@@ -42,7 +42,7 @@ OH! TreadMill is a fitness device equipped with an interactive screen that allow
 
 * Offer early access to fitness and Web3 influencers, encouraging them to share their experiences.
 
-3/ User Engagement:
+4/ User Engagement:
 
 * Offer a rewards program that allows users to redeem points for fitness gear, crypto, or other perks.
 
