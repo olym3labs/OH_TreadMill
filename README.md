@@ -2,11 +2,19 @@
 
 # Vision:
 
-OH! TreadMill envisions merging physical fitness with blockchain technology to provide a unique, interactive experience. Users can connect their digital wallets via WalletConnect and earn points for their workout sessions. This innovative integration will bring together health, convenience, and digital rewards, motivating users to stay active while benefiting from a royalty-based rewards system.
+OH! TreadMill envisions merging physical fitness with blockchain technology to provide a unique, interactive experience. Users can connect their digital wallets via WalletConnect and earn points for their workout sessions. 
+
+This innovative integration will bring together health, convenience, and digital rewards, motivating users to stay active while benefiting from a royalty-based rewards system.
 
 # Description:
 
-OH! TreadMill is a fitness device equipped with an interactive screen that allows users to scan a WalletConnect QR code to link their crypto wallet. Once connected, users' workout sessions will be recorded, and points will be accumulated based on the intensity and duration of their exercise. This data is sent to a secure cloud system that displays personal information, including previous workout stats, real-time updates, and future fitness goals, making the treadmill experience personalized. The system will also calculate royalty points that can later be redeemed for rewards or converted into loyalty tokens.
+OH! TreadMill is a fitness device equipped with an interactive screen that allows users to scan a WalletConnect QR code to link their crypto wallet. 
+
+Once connected, users' workout sessions will be recorded, and points will be accumulated based on the intensity and duration of their exercise. 
+
+This data is sent to a secure cloud system that displays personal information, including previous workout stats, real-time updates, and future fitness goals, making the treadmill experience personalized. 
+
+The system will also calculate royalty points that can later be redeemed for rewards or converted into loyalty tokens.
 
 # Target Market:
 
